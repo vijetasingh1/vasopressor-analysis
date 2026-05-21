@@ -160,8 +160,7 @@ vasopressor-analysis/
 
 ##  Dashboard Preview  
 
-dashboard.png
-
+![Dashboard](dashboard.png)
 ---
 
 ##  How to Use  
